@@ -4,5 +4,6 @@
 
 
 - [Subsetting in R](https://brunj7.github.io/short-sessions/subsetting-short.html)
+- [Intro to R packages](https://github.com/isteves/r-pkg-intro)
 
 
